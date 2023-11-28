@@ -11,7 +11,7 @@
 ``使用方法: git clone https://github.com/dddinmx/Hound-Detector.git``  
 ``pip3 install -r requirements.txt``  
   
-usage: fp.py [-h] [-u URL] [-f FILE]  
+``usage: fp.py [-h] [-u URL] [-f FILE]``  
 
 - [x] 识别单个URL指纹
 - [x] 识别多个URL，放进同一txt文件中，一行一个URL
