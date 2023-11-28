@@ -8,7 +8,8 @@
     /_____/      Hound Detector  
 
   
-``使用方法:`` git clone https://github.com/dddinmx/Hound-Detector.git  
+``使用方法: git clone https://github.com/dddinmx/Hound-Detector.git``  
+``pip3 install -r requirements.txt``  
   
 usage: fp.py [-h] [-u URL] [-f FILE]  
 
