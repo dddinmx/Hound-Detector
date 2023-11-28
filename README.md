@@ -13,6 +13,7 @@
 ``pip3 install -r requirements.txt``  
 #### Mac
 ``可使用打包好的执行文件，使用前给执行权限``  
+
 <img width="557" alt="image" src="https://github.com/dddinmx/Hound-Detector/assets/19663680/ad1fb861-a7e5-44c1-b217-6513d04b0292">  
 #### 使用
 ``usage: fp.py [-h] [-u URL] [-f FILE]``  
