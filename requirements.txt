@@ -1,4 +1,6 @@
 beautifulsoup4==4.11.2
 mmh3==4.0.0
+python_Wappalyzer==0.3.1
 Requests==2.31.0
 urllib3==1.25.11
+Wappalyzer==1.0
