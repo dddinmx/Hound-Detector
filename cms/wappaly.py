@@ -1,6 +1,6 @@
 #coding:utf-8
 
-import datetime,sys,,warnings
+import datetime,sys,warnings
 from Wappalyzer import Wappalyzer, WebPage
 
 red =  "\033[1;31m"
