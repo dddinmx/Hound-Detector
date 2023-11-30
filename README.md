@@ -19,7 +19,7 @@
 - [x] 识别单个URL指纹
 - [x] 识别多个URL，放进同一txt文件中，一行一个URL
 - [x] 加入Wappalyzer插件比对，增加指纹准确率
-- [ ] 提高识别准确率  
+
 
 
 <img width="1219" alt="image" src="https://github.com/dddinmx/Hound-Detector/assets/19663680/f5db0a6a-acdc-4b81-984b-1d1587af97dc">
