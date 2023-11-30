@@ -1,12 +1,13 @@
 #coding:utf-8
 
-import datetime,sys
+import datetime,sys,,warnings
 from Wappalyzer import Wappalyzer, WebPage
 
 red =  "\033[1;31m"
 reset = "\033[0;0m"
 
 def wappaly(url):
+    warnings.simplefilter("ignore")
     try:
         wappalyzer = Wappalyzer.latest()
         webpage = WebPage.new_from_url(url)
