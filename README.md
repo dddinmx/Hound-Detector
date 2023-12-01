@@ -20,6 +20,8 @@
 
 #### 使用
 ``usage: Hound.py [-h] [-u URL] [-f FILE]``  
+``python3 Hound.py -u url``  
+``可执行文件: ./Hound-darwin-amd64 -f url.txt``  
 
   
 - [x] 识别单个URL指纹
