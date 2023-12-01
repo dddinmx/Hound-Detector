@@ -10,7 +10,7 @@
 ### 安装使用  
 #### 通用安装
 ``安装方法: git clone https://github.com/dddinmx/Hound-Detector.git``  
-``pip3 install -r requirements.txt``  
+``pip3 install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/``  
 #### MacOS  
 ``安装方法: 下载 Hound-darwin-amd64可执行文件``  
 ``给予可执行权限: chmod u+x ./Hound-darwin-amd64``  
