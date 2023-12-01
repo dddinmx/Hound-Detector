@@ -14,6 +14,9 @@
 #### MacOS  
 ``安装方法: 下载 Hound-darwin-amd64可执行文件``  
 ``给予可执行权限: chmod u+x ./Hound-darwin-amd64``  
+#### Linux
+``安装方法: 下载 Hound-linux-amd64可执行文件``  
+``给予可执行权限: chmod u+x ./Hound-linux-amd64``  
 
 #### 使用
 ``usage: Hound.py [-h] [-u URL] [-f FILE]``  
