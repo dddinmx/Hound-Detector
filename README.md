@@ -18,7 +18,7 @@
 ``安装方法: 下载 Hound-linux-amd64可执行文件``  
 ``给予可执行权限: chmod u+x ./Hound-linux-amd64``  
 #### WINDOWS
-``安装方法: 下载 Hound_win_amd64.exe文件，使用“终端”打开，若用cmd或powershell打开会显示错误`` 
+``安装方法: 下载 Hound_win_amd64.exe文件，使用“终端”打开，若使用cmd或powershell打开会有显示错误的问题`` 
 
 #### 使用
 ``usage: Hound.py [-h] [-u URL] [-f FILE]``  
