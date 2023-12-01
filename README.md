@@ -39,6 +39,7 @@
 <img width="633" alt="image" src="https://github.com/dddinmx/Hound-Detector/assets/19663680/d616a47b-d0d0-4144-be19-a50772755a55">  
 
 #### Linux  
-<img width="605" alt="image" src="https://github.com/dddinmx/Hound-Detector/assets/19663680/346c47ef-6515-47c4-b05b-23c9e67a2a9a">
+<img width="617" alt="image" src="https://github.com/dddinmx/Hound-Detector/assets/19663680/390b5b86-4769-462e-8767-85879d0406c4">
+
 
 
