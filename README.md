@@ -11,19 +11,15 @@
 #### 通用安装
 ``安装方法: git clone https://github.com/dddinmx/Hound-Detector.git``  
 ``pip3 install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/``  
-#### MacOS  
-``安装方法: 下载 Hound-darwin-amd64可执行文件``  
+#### MacOS、Linux  
+``安装方法: 下载 Hound可执行文件``  
 ``给予可执行权限: chmod u+x ./Hound-darwin-amd64``  
-#### Linux
-``安装方法: 下载 Hound-linux-amd64可执行文件``  
-``给予可执行权限: chmod u+x ./Hound-linux-amd64``  
 #### WINDOWS
 ``安装方法: 下载 Hound_win_amd64.exe文件，使用“终端”打开，若使用cmd或powershell打开会有显示错误的问题`` 
 
 #### 使用
 ``usage: Hound.py [-h] [-u URL] [-f FILE]``  
 ``python3 Hound.py -u url``  
-``可执行文件: ./Hound-darwin-amd64 -f url.txt``  
 
 ### 功能  
 - [x] 识别单个URL指纹  
